@@ -144,7 +144,7 @@ h1, h2, h3 {
 }
 
 .flip-card:hover .flip-card-inner,
-.flip-card:focus .flip-card-inner{
+.flip-card:focus .flip-card-inner {
   transform: rotateY(180deg);
 }
 
@@ -234,8 +234,8 @@ h1, h2, h3 {
 
 .body-footer
 {
-  margin: 38px;
-  padding: 0px;
+  margin-top: 30px;
+  padding: 14px;
   background: linear-gradient(to left, #7cb451, #c9efaa);
 }
 
